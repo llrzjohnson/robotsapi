@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/progressive-web-app-characters/static/css/main.79ef9f17.chunk.css",
-    "main.js": "/progressive-web-app-characters/static/js/main.781edaa1.chunk.js",
-    "main.js.map": "/progressive-web-app-characters/static/js/main.781edaa1.chunk.js.map",
+    "main.js": "/progressive-web-app-characters/static/js/main.8c5f2d98.chunk.js",
+    "main.js.map": "/progressive-web-app-characters/static/js/main.8c5f2d98.chunk.js.map",
     "runtime-main.js": "/progressive-web-app-characters/static/js/runtime-main.2aa9579b.js",
     "runtime-main.js.map": "/progressive-web-app-characters/static/js/runtime-main.2aa9579b.js.map",
     "static/css/2.eb45ad44.chunk.css": "/progressive-web-app-characters/static/css/2.eb45ad44.chunk.css",
     "static/js/2.dfe0dcf6.chunk.js": "/progressive-web-app-characters/static/js/2.dfe0dcf6.chunk.js",
     "static/js/2.dfe0dcf6.chunk.js.map": "/progressive-web-app-characters/static/js/2.dfe0dcf6.chunk.js.map",
     "index.html": "/progressive-web-app-characters/index.html",
-    "precache-manifest.b2e8f294af37ab28ee3f7b148436a31f.js": "/progressive-web-app-characters/precache-manifest.b2e8f294af37ab28ee3f7b148436a31f.js",
+    "precache-manifest.786405fc227eca94f78a5a4cf4e93379.js": "/progressive-web-app-characters/precache-manifest.786405fc227eca94f78a5a4cf4e93379.js",
     "service-worker.js": "/progressive-web-app-characters/service-worker.js",
     "static/css/2.eb45ad44.chunk.css.map": "/progressive-web-app-characters/static/css/2.eb45ad44.chunk.css.map",
     "static/css/main.79ef9f17.chunk.css.map": "/progressive-web-app-characters/static/css/main.79ef9f17.chunk.css.map",
@@ -21,6 +21,6 @@
     "static/css/2.eb45ad44.chunk.css",
     "static/js/2.dfe0dcf6.chunk.js",
     "static/css/main.79ef9f17.chunk.css",
-    "static/js/main.781edaa1.chunk.js"
+    "static/js/main.8c5f2d98.chunk.js"
   ]
 }
